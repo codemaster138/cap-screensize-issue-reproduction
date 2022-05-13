@@ -1063,6 +1063,11 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
+"@capacitor/android@^3.5.1":
+  version "3.5.1"
+  resolved "https://registry.yarnpkg.com/@capacitor/android/-/android-3.5.1.tgz#d81ec82f84ab7f0abeadb4cc100e6a3820197d65"
+  integrity sha512-rjehS0+BQBlwoN8hUyrMuzexn/9QJsONb1kmN5uXcL8JuTEbv35fa7z0tSD4x1LKwUFd+3Zeuwt60QRuwijlmw==
+
 "@capacitor/app@1.1.1":
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/@capacitor/app/-/app-1.1.1.tgz#bde7202faad1b47c4ae2c4a622285d7569384c5e"
@@ -1102,7 +1107,7 @@
   resolved "https://registry.yarnpkg.com/@capacitor/haptics/-/haptics-1.1.4.tgz#80d5bc4776740a227a8cb83c85fac4db1316db8e"
   integrity sha512-+pJIb5X7xAcbrWj6rJaV+cwBlv8aFwB1/Ob6EV4atydThuuVSSsAL4hI4ZYlPNOxM6H5s+ZDLj7Pa2os4eFmtg==
 
-"@capacitor/keyboard@1.2.2":
+"@capacitor/keyboard@^1.2.2":
   version "1.2.2"
   resolved "https://registry.yarnpkg.com/@capacitor/keyboard/-/keyboard-1.2.2.tgz#7be5d2e4956b77e5eb7235ec020d131c9f87f30a"
   integrity sha512-dOZSXJTY/tTbRQ+Neiny72BIXN2Hvf/2AgPpMdTErDfaQM7C2MMgtJrm+Mi+YUeT6AnJFmt68nHJGImAL4lzmA==
@@ -1208,6 +1213,11 @@
     js-yaml "^4.1.0"
     minimatch "^3.1.2"
     strip-json-comments "^3.1.1"
+
+"@hugotomazi/capacitor-navigation-bar@^1.1.1":
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@hugotomazi/capacitor-navigation-bar/-/capacitor-navigation-bar-1.1.1.tgz#f3125ac57d72ae12b55448e05573d9ed9de6490d"
+  integrity sha512-qZ6CmL6jBbaDcE//JSlq8z3eTVRfc9bpyMutPYOPONuqtNJ4PjkYpDi5BL3A0+9YAUJhXRntXPnLRLT3Y+6Ilg==
 
 "@humanwhocodes/config-array@^0.9.2":
   version "0.9.5"
@@ -1639,6 +1649,11 @@
     loader-utils "^2.0.0"
     schema-utils "^3.0.0"
     source-map "^0.7.3"
+
+"@robingenz/capacitor-android-dark-mode-support@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@robingenz/capacitor-android-dark-mode-support/-/capacitor-android-dark-mode-support-1.0.1.tgz#0845f1be5c2e9a3b3a58ef597ce0d945abd18e12"
+  integrity sha512-JayMLgSy/ZraS7ckSb1McBxFavUy25A334TZ6Xnd9FCEmhP6+0+WoZpSAlNPtl1EZbt/elKv13qxMhGCJmUZtw==
 
 "@rollup/plugin-babel@^5.2.0":
   version "5.3.1"

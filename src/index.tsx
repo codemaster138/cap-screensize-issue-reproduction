@@ -3,6 +3,9 @@ import ReactDOM from 'react-dom';
 import App from './App';
 import * as serviceWorkerRegistration from './serviceWorkerRegistration';
 import reportWebVitals from './reportWebVitals';
+import { NavigationBar } from "@hugotomazi/capacitor-navigation-bar";
+
+NavigationBar.setTransparency({ isTransparent: true });
 
 ReactDOM.render(
   <React.StrictMode>

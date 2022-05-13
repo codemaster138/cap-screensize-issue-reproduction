@@ -1,0 +1,11 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "test",
+	"webDir": "build",
+	"bundledWebRuntime": false,
+	"plugins": {
+		"Keyboard": {
+			"resizeOnFullScreen": true
+		}
+	}
+}
